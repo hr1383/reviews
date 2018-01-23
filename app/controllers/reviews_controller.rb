@@ -6,4 +6,9 @@ class ReviewsController < ApplicationController
 		  	 render :json => reviews			
 		end
 	end
+	def thrive
+	end
+	def rmw
+	end
+	
 end
