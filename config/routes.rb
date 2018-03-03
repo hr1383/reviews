@@ -3,4 +3,5 @@ Rails.application.routes.draw do
   get 'reviews/:id' => 'reviews#get'
   get 'rmw' => 'reviews#rmw'
   get 'thrive' => 'reviews#thrive'
+  get 'kree' => 'reviews#kree'
 end
