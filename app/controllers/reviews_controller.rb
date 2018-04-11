@@ -10,5 +10,6 @@ class ReviewsController < ApplicationController
 	end
 	def rmw
 	end
-	
+	def alamo
+	end
 end

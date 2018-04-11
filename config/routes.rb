@@ -4,4 +4,5 @@ Rails.application.routes.draw do
   get 'rmw' => 'reviews#rmw'
   get 'thrive' => 'reviews#thrive'
   get 'kree' => 'reviews#kree'
+  get 'alamo' => 'reviews#alamo'
 end
