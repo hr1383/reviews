@@ -5,4 +5,5 @@ Rails.application.routes.draw do
   get 'thrive' => 'reviews#thrive'
   get 'kree' => 'reviews#kree'
   get 'alamo' => 'reviews#alamo'
+  get 'repairem' => 'reviews#repairem'
 end
